@@ -1,0 +1,1 @@
+import{_ as s,a1 as e,c as a,w as t,e as n,o,b as l,ah as r}from"./index-BmzQcWuq.js";const c=s({methods:{getMessage(s){e({content:JSON.stringify(s.detail),showCancel:!1})}}},[["render",function(s,e,c,d,g,i){const h=r,u=n;return o(),a(u,null,{default:t((()=>[l(h,{src:"/hybrid/html/local.html",onMessage:i.getMessage},null,8,["onMessage"])])),_:1})}]]);export{c as default};

@@ -1,0 +1,1 @@
+import{_ as a,r as t,a as e,c as s,w as l,y as n,e as r,o as i,b as o}from"./index-BmzQcWuq.js";const d=a({data:()=>({title:"当前页"})},[["render",function(a,d,u,c,f,p){const m=t(e("page-head"),n),x=r;return i(),s(x,null,{default:l((()=>[o(m,{title:f.title},null,8,["title"])])),_:1})}]]);export{d as default};
